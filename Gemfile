@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-
+gem 'bcrypt', platforms: :ruby
 gem "starter_generators", :git => "https://github.com/raghubetina/starter_generators"
 gem "devise"
 
